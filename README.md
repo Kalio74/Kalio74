@@ -1,4 +1,3 @@
-# Kalio74
 
 <div id="header" align="center">
   <h1>KaliO</h1>
